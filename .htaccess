@@ -1,0 +1,18 @@
+RewriteEngine On
+
+# DE routes
+RewriteRule ^unsere-leistungen/?$ /pages/unsere-leistungen/index.html [L]
+RewriteRule ^ueber-uns/?$ /pages/ueber-uns/index.html [L]
+RewriteRule ^kontakt/?$ /pages/kontakt/index.html [L]
+RewriteRule ^anfahrt/?$ /pages/anfahrt/index.html [L]
+RewriteRule ^impressum/?$ /pages/impressum/index.html [L]
+RewriteRule ^datenschutz/?$ /pages/datenschutz/index.html [L]
+RewriteRule ^druckkoepfe/?$ /pages/druckkoepfe/index.html [L]
+
+# EN routes
+RewriteRule ^en/?$ /en/index.html [L]
+RewriteRule ^en/services/?$ /en/pages/services/index.html [L]
+RewriteRule ^en/about/?$ /en/pages/about/index.html [L]
+RewriteRule ^en/contact/?$ /en/pages/contact/index.html [L]
+RewriteRule ^en/directions/?$ /en/pages/directions/index.html [L]
+RewriteRule ^en/printheads/?$ /en/pages/printheads/index.html [L]

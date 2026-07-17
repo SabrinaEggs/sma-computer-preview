@@ -1,0 +1,24 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B3D;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#FFB3A0;stop-opacity:1"></stop>
+    </linearGradient>
+    <linearGradient id="blueGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1E40AF;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#6B92D1;stop-opacity:1"></stop>
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#A8E6A1;stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+  <!-- Orange Viertelkreis (oben links) -->
+  <path d="M 256 256 L 256 50 A 206 206 0 0 0 50 256 Z" fill="url(#orangeGradient)"></path>
+  <!-- Blauer Viertelkreis (unten links) -->
+  <path d="M 256 256 L 50 256 A 206 206 0 0 0 256 462 Z" fill="url(#blueGradient)"></path>
+  <!-- Grüner Viertelkreis (unten rechts) -->
+  <path d="M 256 256 L 256 462 A 206 206 0 0 0 462 256 Z" fill="url(#greenGradient)"></path>
+  <!-- Text "SMA" -->
+  <text x="360" y="245" font-family="Helvetica, Arial, sans-serif" font-size="75" font-weight="900" fill="black" text-anchor="middle" letter-spacing="2">SMA</text>
+</svg>

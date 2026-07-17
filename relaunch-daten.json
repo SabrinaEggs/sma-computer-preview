@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "scraped_from": "https://sma-computer.de/",
+    "date": "2025",
+    "tool": "curl + python3"
+  },
+  "company": {
+    "name": "SMA Computer GmbH",
+    "alternate_name": "Dreisessel-IT",
+    "address": "Hochfeld 18, 94089 Neureichenau",
+    "ceo": "Bernhard Ammerl",
+    "phone": "+49 (0) 8583-978 978 1",
+    "fax": "+49 (0) 8504-5220",
+    "email": "info@druckkopf.de",
+    "court": "Amtsgericht Passau, HRB 5242",
+    "vat": "DE 162485954",
+    "opening_hours": "Mo-So 09:00-17:00",
+    "social": {
+      "facebook": "https://www.facebook.com/profile.php?id=100089276137488",
+      "instagram": "https://www.instagram.com/sma_computer_gmbh/"
+    },
+    "sister_site": "https://dreisessel-it.de",
+    "shop": "https://druckkopf.de/shop_sma/"
+  },
+  "tech_stack": {
+    "cms": "WordPress 7.0.1",
+    "theme": "Neve 3.8.6",
+    "php": "8.4.23",
+    "server": "Apache",
+    "protocol": "HTTP/2",
+    "plugins": [
+      "Rank Math PRO (SEO)",
+      "Contact Form 7 v6.1.6",
+      "Complianz GDPR",
+      "Jetpack Boost",
+      "Site Kit by Google v1.183.0",
+      "ResizeFly (Bildoptimierung)"
+    ],
+    "analytics": {
+      "gtm_id": "GT-T53RZ2Q5",
+      "tool": "Google Tag Manager + Google Analytics"
+    }
+  },
+  "design": {
+    "colors": {
+      "primary_accent": "#2f5aae",
+      "secondary_accent": "#01216b",
+      "site_bg": "#d9f9f6",
+      "light_bg": "#f0eff4",
+      "dark_bg": "#121212",
+      "text": "#272626",
+      "text_dark_bg": "#ffffff",
+      "btn_hover_bg": "#ff0000",
+      "nav_hover": "#ff0000",
+      "nav_active": "#15b8d9",
+      "header_top_bg": "linear-gradient(135deg, #0ca0f6, #7c85e9)",
+      "c1": "#9463ae",
+      "c2": "#be574b",
+      "footer_border": "#05a2c3"
+    },
+    "fonts": {
+      "body": "Arial, Helvetica, sans-serif",
+      "navigation": "Comic Sans MS, cursive"
+    },
+    "font_sizes_desktop": {
+      "body": "17px",
+      "h1": "40px",
+      "h2": "32px",
+      "h3": "32px",
+      "h4": "24px",
+      "h5": "20px",
+      "h6": "16px"
+    },
+    "layout": {
+      "container_desktop": "1000px",
+      "container_tablet": "992px",
+      "container_mobile": "551px",
+      "sidebar": "none (full-width)",
+      "header_rows": 3,
+      "logo_max_width_desktop": "350px",
+      "sidebar_menu_width": "300px"
+    },
+    "background_images": {
+      "body": "https://sma-computer.de/wp-content/uploads/2024/03/Hintergrund1.png",
+      "header": "https://sma-computer.de/wp-content/uploads/2024/03/SMA-LOGO-Computer-50.png",
+      "hero_overlay": "https://dreisessel-it.de/wp-content/uploads/2024/01/SMA-Computer-Head-4.png"
+    }
+  },
+  "pages": {
+    "home": {
+      "url": "https://sma-computer.de/",
+      "title": "Startseite - SMA Computer - Dreisessel IT",
+      "meta_description": "Entdecken Sie die Zukunft der Technologie mit unserer erstklassigen Auswahl an Computern und elektronischen Geräten.",
+      "h1": "Ihre Zufriedenheit ist unser größtes Anliegen",
+      "intro": "Herzlich willkommen bei Dreisessel-IT – Ihrem Tor zur digitalen Welt! Entdecken Sie die Zukunft der Technologie mit unserer erstklassigen Auswahl an Computern und elektronischen Geräten.",
+      "highlights": [
+        "Hochleistungsrechner: Maßgeschneiderte High-End-PCs",
+        "Mobile Produktivität: Leichte und leistungsstarke Laptops",
+        "Gaming-Paradies: Gaming-PCs und neuestes Zubehör",
+        "Zubehör & Peripherie: Tastaturen, Drucker, etc."
+      ],
+      "promise": "Bei Dreisessel-IT setzen wir auf Qualität, Innovation und exzellenten Kundenservice.",
+      "images": [
+        {"file": "banner21.jpg", "source": "dreisessel-it.de", "alt": ""},
+        {"file": "TERRA-PC-MICRO-50006000_front-seitlich-links.jpg", "alt": ""},
+        {"file": "TERRA-LCD-2756W-PV_seitlich-rechts-1024x988.png", "alt": ""},
+        {"file": "neve-patterns-19-1.jpg", "alt": ""}
+      ]
+    },
+    "leistungen": {
+      "url": "https://sma-computer.de/unsere-leistungen/",
+      "title": "Unsere Leistungen - SMA Computer - Dreisessel IT",
+      "meta_description": "Wir unterstützen Sie in sämtlichen Belangen",
+      "services": [
+        {
+          "name": "PC-Zusammenstellung & Neuaufbau",
+          "details": ["Wunsch-PC (Office, Gaming, Basic)", "Beratung & Preisvergleiche", "Aufbau eines oder mehrerer Rechner"]
+        },
+        {
+          "name": "Erweiterung & Upgrades",
+          "details": ["Beratung zu Erweiterungen", "Erweiterungen bestehender PC-Systeme"]
+        },
+        {
+          "name": "Reparatur",
+          "details": ["Reparatur defekter PCs", "Kostenloser Hol- und Bringservice im Umkreis von 5 km", "Ausgetauschte Teile werden zurückgegeben"]
+        },
+        {
+          "name": "Problemberatung",
+          "details": ["Software- und Hardware-Probleme", "Direkt vor Ort oder telefonisch"]
+        },
+        {
+          "name": "Internet-Einrichtung",
+          "details": ["Beratung zur Provider-Auswahl", "Anmeldung beim Wunsch-Anbieter", "Konfiguration des PC-Systems", "Einrichten via Modem, ISDN, DSL, DSL/Funk", "WLAN-Funknetze mit Verschlüsselung", "Kabelverlegung (Materialkosten extra)"]
+        }
+      ]
+    },
+    "ueber_uns": {
+      "url": "https://sma-computer.de/ueber-uns/",
+      "title": "Über Uns - SMA Computer - Dreisessel IT",
+      "meta_description": "SMA Computer GmbH – Wir bieten die perfekte Beratung für optimale Reparaturen, Wartung und Kauf.",
+      "intro": "Als herstellerunabhängiges und leistungsfähiges Dienstleistungsunternehmen hat sich die SMA Computer GmbH auf die Reparatur von elektromechanischen Baugruppen spezialisiert.",
+      "values": [
+        {
+          "name": "Schnelligkeit",
+          "text": "Reparaturen weitgehend vor Ort. Schnelle Durchlaufzeit, optimale Qualitätskontrolle. 24-Stunden-Service ohne Aufpreis in dringenden Fällen."
+        },
+        {
+          "name": "Präzision",
+          "text": "Schwerpunkt: Überholung von Matrixdruckerköpfen & Fuser-Kits für Laserdrucker. Qualität auf Niveau von Neuteilen."
+        },
+        {
+          "name": "Umweltschutz",
+          "text": "Druckkopfreparatur reduziert Abfall und Computerschrott erheblich."
+        },
+        {
+          "name": "Qualitätssicherung",
+          "text": "Qualitätsmanagementsystem nach DIN EN ISO 9001:2000, zertifiziert durch Verein zur Qualitätssicherung und Zertifizierung für den Mittelstand e.V."
+        }
+      ],
+      "usps": [
+        "Herstellerunabhängig",
+        "24-Stunden-Service ohne Aufpreis",
+        "Reparaturen vor Ort",
+        "ISO 9001 zertifiziert",
+        "Langjährige Erfahrung"
+      ]
+    },
+    "kontakt": {
+      "url": "https://sma-computer.de/kontakt/",
+      "title": "Kontakt - SMA Computer - Dreisessel IT",
+      "form_fields": ["Name", "E-Mail-Adresse", "Betreff", "Nachricht (optional)"],
+      "form_plugin": "Contact Form 7"
+    },
+    "anfahrt": {
+      "url": "https://sma-computer.de/anfahrt/",
+      "title": "Anfahrt - SMA Computer - Dreisessel IT",
+      "note": "Seite enthält vermutlich eingebettete Karte – kein Textinhalt via curl extrahierbar"
+    },
+    "impressum": {
+      "url": "https://sma-computer.de/impressum/",
+      "title": "Impressum - SMA Computer - Dreisessel IT"
+    }
+  },
+  "navigation": {
+    "main_menu": [
+      {"label": "Druckköpfe", "url": "https://druckkopf.de/", "external": true},
+      {"label": "Startseite", "url": "https://sma-computer.de/"},
+      {"label": "Shop", "url": "https://druckkopf.de/shop_sma/", "external": true},
+      {"label": "Unsere Leistungen", "url": "https://sma-computer.de/unsere-leistungen/"},
+      {"label": "Über uns", "url": "https://sma-computer.de/ueber-uns/"},
+      {"label": "Kontakt", "url": "https://sma-computer.de/kontakt/"},
+      {"label": "Anfahrt", "url": "https://sma-computer.de/anfahrt/"}
+    ],
+    "footer_menu": [
+      {"label": "Startseite", "url": "https://sma-computer.de/"},
+      {"label": "Unsere Leistungen", "url": "https://sma-computer.de/unsere-leistungen/"},
+      {"label": "Kontakt", "url": "https://sma-computer.de/kontakt/"},
+      {"label": "Über uns", "url": "https://sma-computer.de/ueber-uns/"},
+      {"label": "Anfahrt", "url": "https://sma-computer.de/anfahrt/"},
+      {"label": "Impressum", "url": "https://sma-computer.de/impressum/"}
+    ]
+  },
+  "issues": [
+    "Doppelte Markenidentität: SMA Computer vs. Dreisessel-IT",
+    "Alle Bilder ohne Alt-Text (SEO + Accessibility)",
+    "Comic Sans im Navigationsmenü",
+    "Button-Hover Rot (#ff0000) passt nicht zur Farbpalette",
+    "Anfahrt-Seite ohne Textinhalt",
+    "Kontaktseite ohne direkte Kontaktdaten",
+    "Hero-Banner von externer Domain (dreisessel-it.de) geladen",
+    "/datenschutz/ leitet auf druckkopf.de weiter",
+    "Cache nur 3 Sekunden",
+    "WordPress-Version im HTML sichtbar (Sicherheitsrisiko)"
+  ],
+  "usps_to_keep": [
+    "Kostenloser Hol- und Bringservice (5km Umkreis)",
+    "24-Stunden-Service ohne Aufpreis",
+    "ISO 9001 zertifiziert",
+    "Herstellerunabhängig",
+    "Reparaturen vor Ort"
+  ]
+}
